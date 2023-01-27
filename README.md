@@ -1,6 +1,6 @@
 # projectpop (WIP)
 
-Populate any of your projects with a common file structure and files
+Goal: Populate any projects with a common files & file structure
 
 <img width="745" alt="<Screenshot or gif>" title="Screenshot or Gif" src="">
 
@@ -9,7 +9,22 @@ Populate any of your projects with a common file structure and files
 
 ## ✨ Features 
 
-- [ ]
+- 0 Dependencys
+
+
+what it always does (if you dont need that dont run it)
+- populates any project (empty or already in progress) with nonexisting common important files 
+
+what it can optinally do
+- init VCS
+- generate general file structure
+- via extension provided and maintained by community generate programming language dependent files and file structures
+
+Generated Files
+- README.md		entry point for any project
+- CONTRIBUTERS	credits list of all contributors
+
+File Structure
 
 <details>
 	<summary><h4>Todo</h4></summary>
