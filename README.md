@@ -2,7 +2,7 @@
 
 Populate any of your projects with a common file structure and files
 
-<img width="745" alt="Screenshot or gif" title="Screenshot or Gif" src=".png">
+<img width="745" alt="<Screenshot or gif>" title="Screenshot or Gif" src="">
 
 
 ## Contents
@@ -57,7 +57,7 @@ $
 #### display help with a list of all possible arguments
 
 ```
-
+$
 ```
 
 ## Styles
@@ -68,9 +68,9 @@ $
 
 All contributions are greatly appreciated!
 
-If you have a suggestion that would make gh-contribs better, 
+If you have a suggestion that would make projectpop better, 
 please fork the repo and create a pull request or open an issue.
 
 ## Credits
 
-See CONTRIBUTER
+See File CONTRIBUTERS
