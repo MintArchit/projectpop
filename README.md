@@ -1,6 +1,6 @@
 # projectpop (WIP)
 
-Goal: Populate any projects with a common files & file structure
+Goal: Populate any projects with common files & file structure
 
 <img width="745" alt="<Screenshot or gif>" title="Screenshot or Gif" src="">
 
@@ -10,26 +10,27 @@ Goal: Populate any projects with a common files & file structure
 ## ✨ Features 
 
 - 0 Dependencys
+- populates any project (empty or already in progress) with common important empty files 
+- generate general directory structure
 
-
-what it always does (if you dont need that dont run it)
-- populates any project (empty or already in progress) with nonexisting common important files 
-
-what it can optinally do
-- init VCS
-- generate general file structure
-- via extension provided and maintained by community generate programming language dependent files and file structures
-
-Generated Files
-- README.md		entry point for any project
+Generated root Files
+- README.md		always entry point for any project
+- SECURITY.md	
 - CONTRIBUTERS	credits list of all contributors
 
-File Structure
+Generated Template Files in directory .github/
+- Issue Templates
+- Pull Request Templates
+
+[File Structure]()
 
 <details>
-	<summary><h4>Todo</h4></summary>
-	
-- [ ] 
+	<summary><h4>Todo</h4></summary>	
+integrate missing external utils:
+- [ ] databases
+- [ ] generate READMEs
+- [ ] via extension provided and maintained by community generate programming language dependent files and file structures
+- [ ] fill empty files with individual choices of content
 
 </details>
 
@@ -38,44 +39,44 @@ File Structure
 #### install
 
 ```
-$ 
+gh repo clone MintArchit/projectpop
+cd projectpop
+./src/install
 ```
 
-<details>
-	<summary><h4>Manage Installation</h4></summary>
+%%<details>
+	%%<summary><h4>Manage Installation</h4></summary>
 
-#### list installed extensions
+%%#### list installed extensions
 
-```
-$ 
-```
+%%```
+%%$ 
+%%```
 
-#### upgrade
+%%#### upgrade
 
-```
-$ 
-```
+%%```
+%%$ 
+%%```
 
-#### uninstall
+%%#### uninstall
 
-```
-$ 
-```
-</details>
+%%```
+%%$ 
+%%```
+%%</details>
 
 ## ⚡️ Usage
 
 ```
-$ 
+projectpop 
 ```
 
-#### display help with a list of all possible arguments
+%%#### display help with a list of all possible arguments
 
-```
-$
-```
+%%```
 
-## Styles
+%%```
 
 ## Limitations
 
