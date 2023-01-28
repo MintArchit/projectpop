@@ -22,7 +22,7 @@ Generated Template Files in directory .github/
 - Issue Templates
 - Pull Request Templates
 
-[File Structure](https://github.com/MintArchit/projectpop/tree/main/template/empty)
+[New Project Structure](https://github.com/MintArchit/projectpop/tree/main/template/empty)
 
 <details>
 	<summary><h4>Todo</h4></summary>	
