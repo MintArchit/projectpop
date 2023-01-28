@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp -i -n -r "$HOME/ghub/projectpop/template/." .

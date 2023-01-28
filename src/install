@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp "$HOME/ghub/projectpop/src/projectpop" "$HOME/.local/bin/."
